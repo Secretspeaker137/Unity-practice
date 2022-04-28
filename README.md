@@ -1,2 +1,2 @@
 # Unity-practice
-practice for Unity
+practice of Unity
